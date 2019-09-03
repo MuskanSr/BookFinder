@@ -1,0 +1,35 @@
+.container {
+    color: black;
+}
+
+#search {
+    height: 150px;
+    width: 250px;
+    background-color: burlywood ;
+    margin-top: 20px;
+    padding: 20px;
+    border: solid 2px black;
+    margin-left: 300px;
+}
+
+#btn:hover{
+    background-color: grey;
+}
+
+#body {
+    background-image: url('https://image.freepik.com/free-photo/blurred-background-blur-bookshelves-book-store-background-education-concept_7190-15.jpg');
+}
+
+#imgbtn {
+    background-color:brown;  
+}
+
+#imgbtn:hover{
+    background-color:lightsalmon;
+
+}
+
+#result {
+    color: black;
+    margin-left: 420px;
+}
